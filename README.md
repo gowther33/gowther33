@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanan John</h1>
-<h3 align="center">Passionate about data analytics and AI</h3>
+<h3 align="center">Passionate about AI and Data Analytics</h3>
 
 - 📫 How to reach me **hananjohn111@gmail.com**
 
